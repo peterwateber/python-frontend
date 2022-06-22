@@ -3,7 +3,7 @@ Flask==1.1.1
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pathtools==0.1.2
 pyobjc-core==6.1
